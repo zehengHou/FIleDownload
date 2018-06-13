@@ -1,0 +1,20 @@
+http://www.qq.com/
+GET
+1
+Accept-Encoding: gzip
+HTTP/1.1 200 OK
+14
+Server: squid/3.5.24
+Date: Wed, 13 Jun 2018 09:14:12 GMT
+Content-Type: text/html; charset=GB2312
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Expires: Wed, 13 Jun 2018 09:15:12 GMT
+Cache-Control: max-age=60
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: HIT from shenzhen.qq.com
+OkHttp-Sent-Millis: 1528881248992
+OkHttp-Received-Millis: 1528881249014
