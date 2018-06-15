@@ -4,6 +4,10 @@ import android.util.Log;
 
 import java.util.Locale;
 
+/**
+ *
+ * @author owenhou 06.13.2018
+ */
 public class Logger {
     public static final boolean DEBUG = true;
 
